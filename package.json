@@ -1,0 +1,25 @@
+{
+  "name": "md-network-visualizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vonPiernik/md-network-visualizer.git"
+  },
+  "author": "Norbert Kaźmierczak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vonPiernik/md-network-visualizer/issues"
+  },
+  "homepage": "https://github.com/vonPiernik/md-network-visualizer#readme",
+  "devDependencies": {
+    "electron": "^16.0.5"
+  },
+  "dependencies": {
+    "vis-network": "^9.1.0"
+  }
+}
